@@ -44,7 +44,8 @@ You can also take up to two extra days to answer the test. Every extra day costs
 
 # How to submit
 You have 7 natural days after receiving the email.
-You will normally offer code feedback in a pull request GUI. We do not have one for this test, so you may provide the feedback as comments in the code, or just prepare a Word or Markdown document making clear to what file/line are you referring.
+You will normally offer code feedback in a pull request GUI. We do not have one for this test, so you may provide the feedback as comments in the code, or just prepare a Word or Markdown document making clear to what file/line are you referring. All the content must be in English.
+
 We kindly ask you not to publish your work in a public repository (until after the selection process has been finished). A zip file or a tar ball by email would suffice. If you insist on using a (private) git repo, we have accounts you can invite on the major platforms (gitlab, github and bitbucket).
 
 Note that, if you decide to fix the code for the extra credit, it might be beneficial if you submit two versions: one unmodified but with your feedback, and another one with your fixes. 
